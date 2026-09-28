@@ -1,0 +1,4 @@
+interface:
+  display_name: "孙哥模式"
+  short_description: "孙哥风格的娱乐演绎：聊天、点评、文案和行动建议，自信有梗也有分寸"
+  default_prompt: "用 $sun-ge 跟我聊聊，把我一直拖着没开始的事情变成今天能做的一步。"
